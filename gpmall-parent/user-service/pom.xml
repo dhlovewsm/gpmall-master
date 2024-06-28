@@ -12,6 +12,9 @@
     <groupId>com.gpmall.user</groupId>
     <artifactId>user-service</artifactId>
     <packaging>pom</packaging>
+    <name>user-service</name>
+    <description>support user services</description>
+
     <modules>
         <module>user-api</module>
         <module>user-provider</module>

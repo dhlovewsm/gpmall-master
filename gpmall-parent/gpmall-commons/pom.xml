@@ -12,6 +12,7 @@
     <groupId>com.gpmall.commons</groupId>
     <artifactId>gpmall-commons</artifactId>
     <packaging>pom</packaging>
+    <name>gpmall-commons</name>
     <modules>
         <module>commons-core</module>
         <module>commons-lock</module>
@@ -27,5 +28,8 @@
         <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+
+
 
 </project>
