@@ -8,6 +8,9 @@
         <option value="$PROJECT_DIR$/gpmall-parent/pom.xml" />
         <option value="$PROJECT_DIR$/coupon-service/pom.xml" />
         <option value="$PROJECT_DIR$/market-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gpmall-parent/coupon-service/coupon-api/pom.xml" />
+        <option value="$PROJECT_DIR$/gpmall-parent/market-service/market-api/pom.xml" />
+        <option value="$PROJECT_DIR$/gpmall-parent/coupon-service/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

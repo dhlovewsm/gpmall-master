@@ -17,8 +17,6 @@
     <modules>
         <module>comment-api</module>
         <module>comment-provider</module>
-        <module>comment-api</module>
-        <module>comment-provider</module>
     </modules>
 
     <properties>
@@ -26,5 +24,20 @@
         <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+
+
+    <!--    <distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>Nexus Snapshot Repository</name>
+        <url>http://192.168.8.136:8081/repository/maven-snapshots/</url>
+    </snapshotRepository>
+    <repository>
+        <id>releases</id>
+        <name>Nexus Release Repository</name>
+        <url>http://192.168.8.136:8081/repository/huhy-nexus/</url>
+    </repository>
+</distributionManagement>-->
 
 </project>
